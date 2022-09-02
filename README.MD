@@ -7,7 +7,7 @@ Fiz um CRUD Simples para o meu banco de dados com todas as suas funções pedida
 Na hora dos testes tudo correu como deveria
 
 
-Sobre o diagrama de Classes eu não coloquei os métodos gerados dos privates, acredito que não precisasse deles mas caso eu tenha errado pesso desculpas
+Sobre o diagrama de Classes eu não coloquei os métodos gerados dos privates, acredito que não precisasse deles mas caso eu tenha errado desculpas
 
 
 o código usado no bd para crias as tabelas e seus relacionamentos 
